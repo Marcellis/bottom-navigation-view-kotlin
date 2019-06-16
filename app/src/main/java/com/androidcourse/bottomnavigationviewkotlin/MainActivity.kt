@@ -1,4 +1,4 @@
-package com.androidcourse.bottomnavigationview
+package com.androidcourse.bottomnavigationviewkotlin
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
